@@ -60,5 +60,12 @@ Solucion
 ---
 
 6) Escriba un programa que solicite al usuario una letra y determine si es una voz o una consonante.
-1. 
+1. Se define la variable vocales, con una cadena de valores, debemos tener en cuenta que deben aparecer tanto en mayusculas como minusculas .Con ayuda del condicional if estipulamos que si el usuario digita algun valor de la lista sera una vocal, de lo contraria sera una consonante y por ultimo validamos.
 
+
+
+![WhatsApp Image 2023-03-12 at 1 28 17 AM](https://user-images.githubusercontent.com/124641609/224562603-02b36dc2-403c-4b36-8f9f-ef30e65beec0.jpeg)
+
+---
+
+7)Escriba un programa que pida 5 números reales y calcule las siguientes operaciones:
