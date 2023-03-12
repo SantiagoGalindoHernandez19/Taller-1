@@ -81,3 +81,42 @@ La mediana:
 b.Basicamente para este prodecimiento se hizo uso de una cadena, para poder estipular mas facil los valores, principalmente se debia leer esta misma cadena para al momento de que fuera leida, organizara del mismo modo los valores, con ayuda de la funcion half y len, haremos que las lecturas sean cada vez menores
 
 ![MEDIANA](https://user-images.githubusercontent.com/124641609/224569193-563aecce-42af-4f8e-9dea-80547c1b0f39.JPG)
+
+El promedio  multiplicativo:
+
+c. Asignamos una variable para la multiplicacion de los 5 numeros, siguiente a eso hacemos uso de la funcion predeterminada para sacar la raiz sqrt pues de este modo se facilita el manejo del resultado
+
+![Promedio multiplicativo](https://user-images.githubusercontent.com/124641609/224571469-4d637106-ccf9-40d9-bd45-1f2dc3a6e1db.JPG)
+
+Ordenar los números de forma ascendente:
+
+d. El procedimiento realizado en este paso es similar al de la mediana ya que hacemos uso de 3 funciones importantes a la lectura de las cadenas las cuales son range, temp posicion. Lo que hicimos aqui fue basicamente que el programa leyera primero los 5 numeros y determinara si es mayor uno que el otro, despues que lo lea 4 veces, y despues 3 veces asi hasta que llegue a 1.Ordenar los numeros de forma descendente
+
+![Orden lista arriba](https://user-images.githubusercontent.com/124641609/224571730-cb9c9e9b-9be3-46c9-8eaa-eeb82af273d9.JPG)
+
+Ordenar los numeros de forma descendente:
+
+Hacemos el mismo procedimiento pero en vez de que la lectura de numeros sea mayor modificamosel signo para que sea menor 
+
+![Orden lista ABAJO](https://user-images.githubusercontent.com/124641609/224571903-9a0f267c-973c-4168-bad9-0e980361b375.JPG)
+
+La potencia del mayor número elevado al menor número
+
+F. Creamos un programa que nos de el valor del numero mayor  y el n umero menor de la lis ta, de esta manera nos queda mas facil porque podemos operar los resultados que dan
+independientemente de la modificacion de los numeros 
+
+![POTENCIA](https://user-images.githubusercontent.com/124641609/224572182-32cd5039-e1ca-455d-9e62-81a4675be080.JPG)
+
+La raíz cúbica del menor número
+
+g. Con el procedimiento anteriormente realiado solo queda seleccionar y operar el numero menor con las siguientes instruciones (**(1/3)) que seria el procedimiento 
+sacar la raiz cubica
+
+![Raiz cubica](https://user-images.githubusercontent.com/124641609/224572500-bd8df539-3c22-4171-ae4b-e770951b7c45.JPG)
+
+---
+
+
+
+
+
