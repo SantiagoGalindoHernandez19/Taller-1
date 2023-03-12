@@ -69,3 +69,15 @@ Solucion
 ---
 
 7)Escriba un programa que pida 5 números reales y calcule las siguientes operaciones:
+
+El promedio:
+
+a. Definimos la 5 variables a usar con ayuda de la funcion int(input), luego llamaremos a la variable prom al procedimiento de sumar los 5 valores entre la cantidad de caracteres, de esta manera lo unico que faltaria seria  imprimir la respuesta.
+
+![CAPTURA PROMEDIO](https://user-images.githubusercontent.com/124641609/224568878-35b3b415-1eef-42d5-b453-689fec764cc0.JPG)
+
+La mediana:
+
+b.Basicamente para este prodecimiento se hizo uso de una cadena, para poder estipular mas facil los valores, principalmente se debia leer esta misma cadena para al momento de que fuera leida, organizara del mismo modo los valores, con ayuda de la funcion half y len, haremos que las lecturas sean cada vez menores
+
+![MEDIANA](https://user-images.githubusercontent.com/124641609/224569193-563aecce-42af-4f8e-9dea-80547c1b0f39.JPG)
