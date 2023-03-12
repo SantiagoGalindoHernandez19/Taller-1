@@ -116,6 +116,23 @@ sacar la raiz cubica
 
 ---
 
+8) Escriba un programa al que se le ingrese la frecuencia de una onda en hz y como salida arroje en que parte del espectro electromagnético se encuentra .
+
+
+
+---
+
+9) Escriba un programa que reciba el nombre en minúsculas de un país de America y devuelva la ciudad capital, si el país no pertenece al continente debe arrojar país no identificado 
+
+1. Definimos una variable x general y con ayuda del condicional if escribiremos el pais acompañado de print donde se mostrara la capital
+
+![capitales](https://user-images.githubusercontent.com/124641609/224579756-7534a89f-c88e-4a91-85b7-ccb9be2dff41.JPG)
+
+--- 
+
+10) Escriba un programa que dada una distancia calcule:
+
+
 
 
 
