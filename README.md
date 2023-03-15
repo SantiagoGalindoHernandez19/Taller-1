@@ -1,18 +1,38 @@
 # Taller-1
 
-1) Realizacion quiz Python Beginner
+-Nombre del equipo: Los siembramaticas
+
+-Integrantes del equipo: 
+
+  .Donovan
+  
+  .Santiago Galindo Hernandez
+  
+  .Santiago Diaz Devia
+  
+  -Logo del equipo:
+  
+  ![Agregar un subtítulo](https://user-images.githubusercontent.com/124641609/225379946-45d07196-507a-4566-86d2-10fab511ae85.png)
+
+
+1) Quiz Python Beginner
 ![QUIZ](https://user-images.githubusercontent.com/124641609/224518688-a9d098e3-bd8e-408a-8e64-dcf4996af3f2.JPG)
+
+
+![Punto 1 Taller Prog](https://user-images.githubusercontent.com/124641609/225380149-33462fd6-97a3-4ac5-94fc-df6085d63d90.png)
+
 
 ---
 
-2)Realice un programa que lea tres números reales y determine cuál es el mayor.
+2) Realice un programa que lea tres números reales y determine cuál es el mayor.
 
 Solucion
-1. Iniciamos definiendo la varibale con ayuda de la funcion input dentro de la funcion int, donde se reflejara un mensaje para que el usuario digite los 3 numeros a escoger
+1. Iniciamos definiendo la varibale con ayuda de la función input dentro de la función int, donde se reflejará un mensaje para que el usuario digite los 3 numeros a escoger
 
 ![Captura 2](https://user-images.githubusercontent.com/124641609/224518958-4b68a63f-dfb9-4d19-b1b6-837aad3eb51f.JPG)
 
-2. Para no tener ningu inconveniente respecto a que los numeros sean los mismos , utilizamos el condicional if , de modo que la variable x,y,z sean diferentes.Asimismo acompañaremos esta condicion con una parte falsa  para que el usuario vuelva a digitar otro numero diferente 
+
+2. Para no tener ningún inconveniente respecto a que los números sean los mismos , utilizamos el condicional if , de modo que la variable x, y, z sean diferentes. Asimismo acompañaremos esta condición con una parte falsa  para que el usuario vuelva a digitar otro número diferente 
 
 ![Captura](https://user-images.githubusercontent.com/124641609/224519409-031069df-c580-496d-a956-44ae853e9c35.JPG)
 
@@ -20,36 +40,45 @@ Solucion
 
 ![Captura3](https://user-images.githubusercontent.com/124641609/224519566-0d36b824-0ab9-4d52-8d7b-c8ec5753584c.JPG)
 
+Diagrama de flujo
+
+![WhatsApp Image 2023-03-15 at 12 34 48 AM](https://user-images.githubusercontent.com/124641609/225380473-53947ee3-a139-4f36-907c-d278264108d1.jpeg)
+
 ---
 
-3)Realice un programa que lea un número entero y determine si es par o impar.
+3) Realice un programa que lea un número entero y determine si es par o impar.
 
-1.Empezamos definiendo la variable x  dentro de la funcion int para la digitacion del numero, de este modo establecemos una division del numero digitado entre 2 haciendo uso del % puesto que este se utiliza para el resudio de aquella division, al ser 0 esta decimos que el numero es par
+1.Empezamos definiendo la variable x  dentro de la función int para la digitación del número, de este modo establecemos una división del número digitado entre 2 haciendo uso del % puesto que este se utiliza para el resudio de aquella división, al ser 0 esta decimos que el número es par
 
 ![Captura4](https://user-images.githubusercontent.com/124641609/224519878-464108b4-a6c9-4007-b228-daf75b134d8b.JPG)
 
-2.Posteriormente escribiremos una parte falsa, la cual representara el numero impar 
+2. Posteriormente escribiremos una parte falsa, la cual representará el numero impar 
 
 
 ![Captura 4](https://user-images.githubusercontent.com/124641609/224520078-283b17da-f3a9-4b1f-9419-261838e8a962.JPG)
 
+Diagrama de flujo
+
+![WhatsApp Image 2023-03-15 at 12 49 46 AM](https://user-images.githubusercontent.com/124641609/225381144-804c5dc2-4cff-49f8-bd4d-9aac75940e92.jpeg)
+
+
 ---
 
-4.Realice un programa que lea dos números reales y determine si el primero es múltiplo del segundo.
+4) Realice un programa que lea dos números reales y determine si el primero es múltiplo del segundo.
 
-1.  Primero definimos la funcion con ayuda de la condicional if , pues con esto decimos que si el residuo entre la division del primer numero con el segundo da como residuo 0, es multiplo
+1. Primero definimos la función con ayuda de la condicional if , pues con esto decimos que si el residuo entre la división del primer número con el segundo da como residuo 0, es multiplo
 
 ![Captura 5](https://user-images.githubusercontent.com/124641609/224526839-8f2d06cd-2aa1-4aab-9263-90d2e619c703.JPG)
 
-2.De este modo agregamos la partefalsa en caso de que no sea multiplo y por ultimo definimos las variables para digitar 
+2. De este modo agregamos la parte falsa en caso de que no sea multiplo y por ultimo definimos las variables para digitar 
 
 ![Captura8](https://user-images.githubusercontent.com/124641609/224526909-e1f8f63d-f807-44b7-8208-662a8770cbac.JPG)
 
 ---
 
-5)Realice un programa que lea tres números reales y determine si la suma de los dos primeros es mayor, menor o igual que el tercer número.
+5) Realice un programa que lea tres números reales y determine si la suma de los dos primeros es mayor, menor o igual que el tercer número.
 
-1.Asignaremos 3 variables para la correcta digitacion numerica
+1.A signaremos 3 variables para la correcta digitacion numerica
 
 ![WhatsApp Image 2023-03-12 at 1 00 45 AM](https://user-images.githubusercontent.com/124641609/224527244-247b0588-8016-4b80-9d9a-ca5fb555034d.jpeg)
 
@@ -68,7 +97,7 @@ Solucion
 
 ---
 
-7)Escriba un programa que pida 5 números reales y calcule las siguientes operaciones:
+7) Escriba un programa que pida 5 números reales y calcule las siguientes operaciones:
 
 El promedio:
 
@@ -90,26 +119,27 @@ c. Asignamos una variable para la multiplicacion de los 5 numeros, siguiente a e
 
 Ordenar los números de forma ascendente:
 
-d. El procedimiento realizado en este paso es similar al de la mediana ya que hacemos uso de 3 funciones importantes a la lectura de las cadenas las cuales son range, temp posicion. Lo que hicimos aqui fue basicamente que el programa leyera primero los 5 numeros y determinara si es mayor uno que el otro, despues que lo lea 4 veces, y despues 3 veces asi hasta que llegue a 1.Ordenar los numeros de forma descendente
+d. El procedimiento realizado en este paso es similar al de la mediana ya que hacemos uso de 3 funciones importantes a la lectura de las cadenas las cuales son range, temp posición. Lo que hicimos aqui fue basicamente que el programa leyera primero los 5 numeros y determinara si es mayor uno que el otro, despues que lo lea 4 veces, y despues 3 veces asi hasta que llegue a 1.
+
+Ordenar los numeros de forma descendente
 
 ![Orden lista arriba](https://user-images.githubusercontent.com/124641609/224571730-cb9c9e9b-9be3-46c9-8eaa-eeb82af273d9.JPG)
 
 Ordenar los numeros de forma descendente:
 
-Hacemos el mismo procedimiento pero en vez de que la lectura de numeros sea mayor modificamosel signo para que sea menor 
+Hacemos el mismo procedimiento pero en vez de que la lectura de números sea mayor modificamosel signo para que sea menor 
 
 ![Orden lista ABAJO](https://user-images.githubusercontent.com/124641609/224571903-9a0f267c-973c-4168-bad9-0e980361b375.JPG)
 
 La potencia del mayor número elevado al menor número
 
-F. Creamos un programa que nos de el valor del numero mayor  y el n umero menor de la lis ta, de esta manera nos queda mas facil porque podemos operar los resultados que dan
-independientemente de la modificacion de los numeros 
+F. Creamos un programa que nos de el valor del número mayor y el numero menor de la lista, de esta manera nos queda mas facil porque podemos operar los resultados que dan independientemente de la modificacion de los números 
 
 ![POTENCIA](https://user-images.githubusercontent.com/124641609/224572182-32cd5039-e1ca-455d-9e62-81a4675be080.JPG)
 
 La raíz cúbica del menor número
 
-g. Con el procedimiento anteriormente realiado solo queda seleccionar y operar el numero menor con las siguientes instruciones (**(1/3)) que seria el procedimiento 
+g. Con el procedimiento anteriormente realizado solo queda seleccionar y operar el número menor con las siguientes instruciones (**(1/3)) que seria el procedimiento 
 sacar la raiz cubica
 
 ![Raiz cubica](https://user-images.githubusercontent.com/124641609/224572500-bd8df539-3c22-4171-ae4b-e770951b7c45.JPG)
@@ -124,7 +154,7 @@ sacar la raiz cubica
 
 9) Escriba un programa que reciba el nombre en minúsculas de un país de America y devuelva la ciudad capital, si el país no pertenece al continente debe arrojar país no identificado 
 
-1. Definimos una variable x general y con ayuda del condicional if escribiremos el pais acompañado de print donde se mostrara la capital
+1. Definimos una variable x general y con ayuda del condicional if escribiremos el país acompañado de print donde se mostrara la capital
 
 ![capitales](https://user-images.githubusercontent.com/124641609/224579756-7534a89f-c88e-4a91-85b7-ccb9be2dff41.JPG)
 
