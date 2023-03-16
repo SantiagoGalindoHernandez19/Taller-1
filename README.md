@@ -12,7 +12,7 @@
   
   -Logo del equipo:
   
-  ![Agregar un subtítulo](https://user-images.githubusercontent.com/124641609/225379946-45d07196-507a-4566-86d2-10fab511ae85.png)
+  ![Agregar un subtítulo (1)](https://user-images.githubusercontent.com/124641609/225491729-a9d3e256-2600-4b8c-9b61-7f1409a82a73.png)
 
 
 1) Quiz Python Beginner
