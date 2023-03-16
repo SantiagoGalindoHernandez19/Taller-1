@@ -22,6 +22,9 @@
 ![Punto 1 Taller Prog](https://user-images.githubusercontent.com/124641609/225380149-33462fd6-97a3-4ac5-94fc-df6085d63d90.png)
 
 
+![image](https://user-images.githubusercontent.com/124641609/225488279-c8277990-7c22-48a2-9949-6113d06534b7.png)
+
+
 ---
 
 2) Realice un programa que lea tres números reales y determine cuál es el mayor.
@@ -85,6 +88,10 @@ Diagrama de flujo
 2. Haciendo uso el condicional if, imponemos 3 casos que puedan llegar a suceder, si es mayor, menor o igual que la suma de los dos primeros numeros
 
 ![Captura11](https://user-images.githubusercontent.com/124641609/224527890-77e7aa08-22a0-4bab-aff4-435e673d9399.JPG)
+
+Diagrama de flujo
+
+![punto 5](https://user-images.githubusercontent.com/124641609/225488556-4174b412-8ad7-4fa1-ae22-eb7f0c5e2fe0.jpg)
 
 ---
 
@@ -151,6 +158,8 @@ sacar la raiz cubica
 1. el usuario debe ingresar una frecuencia en hz
 2. se establece la formula para sacar la longitud de onda
 3. dada la longitud de onda, el programa devuelve la posicion en el espacio del espectro electromagnetico segun la longitud de onda encontrada anteriormente
+
+![Punto 8](https://user-images.githubusercontent.com/124641609/225488849-ac71c618-b716-450e-89d5-9a8c30e95f72.JPG)
 
 
 ---
