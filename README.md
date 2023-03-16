@@ -174,6 +174,9 @@ sacar la raiz cubica
 
 10) Escriba un programa que dada una distancia calcule:
 
+![Punto 10](https://user-images.githubusercontent.com/124641609/225490784-35143444-991b-48ba-897b-b35796feb18e.JPG)
+
+
 
 
 
