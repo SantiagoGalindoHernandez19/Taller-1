@@ -174,6 +174,14 @@ sacar la raiz cubica
 
 10) Escriba un programa que dada una distancia calcule:
 
+Primero se definen las variables y las constantes
+
+Usando la función input pedimos la distancia que el usuario ingresara, esa variable se convertirá en flotante 
+
+Se plantean las operaciones con las variables, en este caso solo se desea calcular el tiempo que tardaría en recorrer distintos sistemas por lo que  basta con usar la misma ecuación (la de velocidad) y cambiar los datos dependiendo del sistema.
+
+Finalmente se usa la función print para imprimir las expresiones ya calculadas y conocer así el tiempo que tardan, además en cada una de ellas se especifica cuantos decimales se quieren mostrar.
+
 ![Punto 10](https://user-images.githubusercontent.com/124641609/225490784-35143444-991b-48ba-897b-b35796feb18e.JPG)
 
 
