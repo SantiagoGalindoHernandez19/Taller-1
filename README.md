@@ -148,6 +148,9 @@ sacar la raiz cubica
 
 8) Escriba un programa al que se le ingrese la frecuencia de una onda en hz y como salida arroje en que parte del espectro electromagnético se encuentra .
 
+1. el usuario debe ingresar una frecuencia en hz
+2. se establece la formula para sacar la longitud de onda
+3. dada la longitud de onda, el programa devuelve la posicion en el espacio del espectro electromagnetico segun la longitud de onda encontrada anteriormente
 
 
 ---
@@ -161,6 +164,7 @@ sacar la raiz cubica
 --- 
 
 10) Escriba un programa que dada una distancia calcule:
+
 
 
 
