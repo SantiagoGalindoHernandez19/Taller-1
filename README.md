@@ -110,7 +110,8 @@ El promedio:
 
 a. Definimos la 5 variables a usar con ayuda de la funcion int(input), luego llamaremos a la variable prom al procedimiento de sumar los 5 valores entre la cantidad de caracteres, de esta manera lo unico que faltaria seria  imprimir la respuesta.
 
-![CAPTURA PROMEDIO](https://user-images.githubusercontent.com/124641609/224568878-35b3b415-1eef-42d5-b453-689fec764cc0.JPG)
+![correccion](https://user-images.githubusercontent.com/124641609/225495735-35eee24a-9942-482b-9f33-8f1366a805fa.JPG)
+
 
 La mediana:
 
